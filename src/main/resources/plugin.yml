@@ -1,5 +1,5 @@
 name: PlaceSound
 version: '1.0-SNAPSHOT'
 main: winlyps.placeSound.PlaceSound
-api-version: '1.20'
+api-version: '1.16'
 authors: [ Winlyps ]
